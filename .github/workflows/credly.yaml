@@ -16,5 +16,6 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
-          CREDLY_USER: "shinya-ishitobi"
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CREDLY_USER: "shinya-ishitobi"
+          CREDLY_SORT: POPULAR
