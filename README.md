@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-- I am working as Software Architect at Accenture Japan.
+- I am working as Software Architect at Accenture.
 - I graduated from the University of Tokyo in 2024, majoring in Neuroscience.
 - I worked as a software engineer at an AI startup company for 2 years.
 - I worked as a lead engineer at Nagase Co., Ltd. for 1 year.

@@ -18,4 +18,3 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CREDLY_USER: "shinya-ishitobi"
-          CREDLY_SORT: POPULAR
