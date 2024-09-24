@@ -24,6 +24,8 @@
 [![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/5d05c8d6-be11-4e20-990b-817722d410e6 "AWS Certified Developer – Associate")
 <!--END_SECTION:badges-->
 
+\* ordered by the date of registration
+
 ## Stats 📊
 
 <a href="https://github.com/ShinyaIshitobi/github-readme-stats">
