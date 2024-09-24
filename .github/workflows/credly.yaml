@@ -17,4 +17,4 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: "shinya-ishitobi"
-          GH_TOKEN:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
