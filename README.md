@@ -17,6 +17,7 @@
 ## Certifications 🏆
 
 <!--START_SECTION:badges-->
+[![CKS: Certified Kubernetes Security Specialist](https://images.credly.com/size/110x110/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png)](http://www.credly.com/badges/65b58631-b119-433b-8a39-62cd90aff67f "CKS: Certified Kubernetes Security Specialist")
 [![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)](http://www.credly.com/badges/b69c98bf-dbc6-4d7c-b1ff-65048d719fb3 "CKAD: Certified Kubernetes Application Developer")
 [![KCNA: Kubernetes and Cloud Native Associate](https://images.credly.com/size/110x110/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](http://www.credly.com/badges/2c10ead0-faa9-48a9-85cc-92585750935d "KCNA: Kubernetes and Cloud Native Associate")
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/d583cc87-deef-4c74-ac78-0b220c45fc9b "AWS Certified Cloud Practitioner")
