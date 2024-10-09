@@ -17,6 +17,8 @@
 ## Certifications 🏆
 
 <!--START_SECTION:badges-->
+[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)](http://www.credly.com/badges/b69c98bf-dbc6-4d7c-b1ff-65048d719fb3 "CKAD: Certified Kubernetes Application Developer")
+[![KCNA: Kubernetes and Cloud Native Associate](https://images.credly.com/size/110x110/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](http://www.credly.com/badges/2c10ead0-faa9-48a9-85cc-92585750935d "KCNA: Kubernetes and Cloud Native Associate")
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/d583cc87-deef-4c74-ac78-0b220c45fc9b "AWS Certified Cloud Practitioner")
 [![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](http://www.credly.com/badges/6b13366d-9d05-4b9e-9cf9-4d67b841767b "AWS Certified SysOps Administrator – Associate")
 [![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/c68c144d-58e5-4a1a-abc9-343852e73f3b "CKA: Certified Kubernetes Administrator")
