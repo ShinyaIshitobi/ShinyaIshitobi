@@ -17,6 +17,7 @@
 ## Certifications 🏆
 
 <!--START_SECTION:badges-->
+[![Cloud Digital Leader](https://images.credly.com/size/110x110/images/300d4058-0dbd-47b1-96ad-63ff89e41d2b/image.png)](http://www.credly.com/badges/b50b1086-5d30-4f80-bdac-a7837fff72fb "Cloud Digital Leader")
 [![Kubestronaut](https://images.credly.com/size/110x110/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png)](http://www.credly.com/badges/fdf7f5bb-c831-421f-a8ea-36928a85b7fc "Kubestronaut")
 [![KCSA: Kubernetes and Cloud Native Security Associate](https://images.credly.com/size/110x110/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png)](http://www.credly.com/badges/8376874a-b337-471e-b393-71184918ab09 "KCSA: Kubernetes and Cloud Native Security Associate")
 [![CKS: Certified Kubernetes Security Specialist](https://images.credly.com/size/110x110/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png)](http://www.credly.com/badges/65b58631-b119-433b-8a39-62cd90aff67f "CKS: Certified Kubernetes Security Specialist")
