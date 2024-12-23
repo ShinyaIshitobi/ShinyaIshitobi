@@ -17,6 +17,7 @@
 ## Certifications 🏆
 
 <!--START_SECTION:badges-->
+[![Professional Cloud Architect](https://images.credly.com/size/110x110/images/d96faaa1-8c14-4d2d-8927-46f33ccf4523/image.png)](http://www.credly.com/badges/474a9fd3-0b12-4b7b-9e98-a8855cb00e7c "Professional Cloud Architect")
 [![Professional Cloud Network Engineer](https://images.credly.com/size/110x110/images/fd53cb0e-6622-4a14-a7d0-5793c8703a4c/image.png)](http://www.credly.com/badges/4bb9b197-b7a6-4e15-b912-a70a2a867870 "Professional Cloud Network Engineer")
 [![Cloud Digital Leader](https://images.credly.com/size/110x110/images/300d4058-0dbd-47b1-96ad-63ff89e41d2b/image.png)](http://www.credly.com/badges/b50b1086-5d30-4f80-bdac-a7837fff72fb "Cloud Digital Leader")
 [![Kubestronaut](https://images.credly.com/size/110x110/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png)](http://www.credly.com/badges/fdf7f5bb-c831-421f-a8ea-36928a85b7fc "Kubestronaut")
