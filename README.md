@@ -12,7 +12,7 @@
 
 [![Languages](https://skillicons.dev/icons?i=go,swift,typescript,java,spring,next,deno)](https://skillicons.dev)
 
-[![Others](https://skillicons.dev/icons?i=kubernetes,gcp,aws,grafana,terrafrom,ansible,idea)](https://skillicons.dev)
+[![Others](https://skillicons.dev/icons?i=kubernetes,gcp,aws,grafana,terraform,ansible,idea)](https://skillicons.dev)
 
 ## Certifications 🏆
 
