@@ -32,8 +32,6 @@
 [![Professional Cloud Architect](https://images.credly.com/size/110x110/images/d96faaa1-8c14-4d2d-8927-46f33ccf4523/image.png)](http://www.credly.com/badges/474a9fd3-0b12-4b7b-9e98-a8855cb00e7c "Professional Cloud Architect")
 <!--END_SECTION:badges-->
 
-\* ordered by the date of registration
-
 ## Stats 📊
 
 <a href="https://github.com/ShinyaIshitobi/github-readme-stats">
