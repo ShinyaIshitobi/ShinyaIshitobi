@@ -10,9 +10,9 @@
 
 ## Tech Stack 🛠
 
-[![Languages](https://skillicons.dev/icons?i=go,java,spring,typescript,deno,swift,next&theme=light)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=go,swift,typescript,java,spring,next,deno)](https://skillicons.dev)
 
-[![Others](https://skillicons.dev/icons?i=terraform,aws,gcp,kubernetes,ansible,grafana,idea)](https://skillicons.dev)
+[![Others](https://skillicons.dev/icons?i=kubernetes,gcp,aws,grafana,terrafrom,ansible,idea)](https://skillicons.dev)
 
 ## Certifications 🏆
 
