@@ -27,11 +27,11 @@
 [![Professional Cloud Architect](https://images.credly.com/size/110x110/images/d96faaa1-8c14-4d2d-8927-46f33ccf4523/image.png)](http://www.credly.com/badges/474a9fd3-0b12-4b7b-9e98-a8855cb00e7c "Professional Cloud Architect")
 [![Professional Cloud Network Engineer](https://images.credly.com/size/110x110/images/fd53cb0e-6622-4a14-a7d0-5793c8703a4c/image.png)](http://www.credly.com/badges/4bb9b197-b7a6-4e15-b912-a70a2a867870 "Professional Cloud Network Engineer")
 [![Professional Data Engineer](https://images.credly.com/size/110x110/images/d7d0d0f5-ea0b-4b3f-a76f-93934726573d/image.png)](http://www.credly.com/badges/edf02867-31b5-490c-b60f-f6881cf1572a "Professional Data Engineer")
+[![Professional Cloud Database Engineer Certification](https://images.credly.com/size/110x110/images/b170e960-57d8-4c4a-883d-21b9e420b9dd/image.png)](http://www.credly.com/badges/e7a6900d-3829-4583-aafd-42427b134038 "Professional Cloud Database Engineer Certification")
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/d583cc87-deef-4c74-ac78-0b220c45fc9b "AWS Certified Cloud Practitioner")
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/b075f311-5371-4b53-bcfb-c2f943be61b9 "AWS Certified Solutions Architect – Associate")
 [![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/5d05c8d6-be11-4e20-990b-817722d410e6 "AWS Certified Developer – Associate")
 [![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](http://www.credly.com/badges/6b13366d-9d05-4b9e-9cf9-4d67b841767b "AWS Certified SysOps Administrator – Associate")
-[![Professional Cloud Database Engineer Certification](https://images.credly.com/size/110x110/images/b170e960-57d8-4c4a-883d-21b9e420b9dd/image.png)](http://www.credly.com/badges/e7a6900d-3829-4583-aafd-42427b134038 "Professional Cloud Database Engineer Certification")
 <!--END_SECTION:badges-->
 
 ## Stats 📊
