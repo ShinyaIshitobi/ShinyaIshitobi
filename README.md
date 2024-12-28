@@ -31,6 +31,7 @@
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/b075f311-5371-4b53-bcfb-c2f943be61b9 "AWS Certified Solutions Architect – Associate")
 [![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/5d05c8d6-be11-4e20-990b-817722d410e6 "AWS Certified Developer – Associate")
 [![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](http://www.credly.com/badges/6b13366d-9d05-4b9e-9cf9-4d67b841767b "AWS Certified SysOps Administrator – Associate")
+[![Professional Cloud Database Engineer Certification](https://images.credly.com/size/110x110/images/b170e960-57d8-4c4a-883d-21b9e420b9dd/image.png)](http://www.credly.com/badges/e7a6900d-3829-4583-aafd-42427b134038 "Professional Cloud Database Engineer Certification")
 <!--END_SECTION:badges-->
 
 ## Stats 📊
