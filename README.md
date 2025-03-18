@@ -2,10 +2,11 @@
 
 ## Hi there 👋
 
-- I am working as Software Architect at Accenture.
+- I am working as Software Engineer at newmo, Inc..
 - I graduated from the University of Tokyo in 2024, majoring in Neuroscience.
 - I worked as a software engineer at an AI startup company for 2 years.
 - I worked as a lead engineer at Nagase Co., Ltd. for 1 year.
+- I worked as a Software Architect at Accenture, Inc. for 1 year.
 - Please connect with me on [LinkedIn](https://www.linkedin.com/in/shinya-ishitobi-57714132a/).
 
 ## Tech Stack 🛠
