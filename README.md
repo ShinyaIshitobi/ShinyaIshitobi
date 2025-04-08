@@ -11,9 +11,7 @@
 
 ## Tech Stack 🛠
 
-[![Languages](https://skillicons.dev/icons?i=go,swift,typescript,java,spring,next,deno)](https://skillicons.dev)
-
-[![Others](https://skillicons.dev/icons?i=kubernetes,gcp,aws,grafana,terraform,ansible,idea)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=go,kubernetes,gcp,aws,ansible,idea)](https://skillicons.dev)
 
 ## Certifications 🏆
 
