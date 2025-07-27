@@ -12,12 +12,3 @@
 
 <!--START_SECTION:badges-->
 [![Kubestronaut](https://images.credly.com/size/110x110/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png)](http://www.credly.com/badges/fdf7f5bb-c831-421f-a8ea-36928a85b7fc "Kubestronaut")
-
-## Stats 📊
-
-<a href="https://github.com/ShinyaIshitobi/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-nine-sigma-60.vercel.app/api?username=ShinyaIshitobi&rank_icon=github" />
-</a>
-<a href="https://github.com/ShinyaIshitobi/convoychat">
-  <img align="center" src="https://github-readme-stats-nine-sigma-60.vercel.app/api/top-langs?layout=compact&langs_count=8&card_width=320&username=ShinyaIshitobi&exclude_repo=Lab&count_private=true" />
-</a>
